@@ -8,6 +8,7 @@ https://www.kaggle.com/datasets/iridazzle/webtoon-originals-datasets
 圖片由webtoon網頁爬取  
 
 ## 專案內容介紹
+此為課程資料視覺化之小組專案  
 使用工具:HTML、CSS、Bootstrap、D3.js  
 分為Bar chart view 和 weekly views   
 ### Bar chart view
