@@ -5,7 +5,7 @@ https://kangyunxuan.github.io/data_visualization/final_index.html
 Kaggle-Datasets of WEBTOON ORIGINALS  
 https://www.kaggle.com/datasets/iridazzle/webtoon-originals-datasets  
 資料總數:677  
-圖片由webtoon網頁爬取  
+圖片Beautiful Soup從webtoon網頁取得
 
 ## 專案內容介紹
 此為課程資料視覺化之小組專案  
